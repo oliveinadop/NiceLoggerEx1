@@ -1,0 +1,6 @@
+framework module NiceLoggerEx {
+  umbrella header "NiceLoggerEx.h"
+
+  export *
+  module * { export * }
+}
